@@ -1,4 +1,9 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=461DF7&lines=Hello%2C+I'm+Martin!)](https://git.io/typing-svg)
+
+<h3 align="center"> A Full Stack Developer from Argentina.</h3>
+<br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mardesouza86&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mardesouza86&layout=compact)](https://github.com/mardesouza86/github-readme-stats)
